@@ -1,0 +1,2 @@
+### Cap 7
+Para el Cap 7 se desarrolo una API de analisis de texto por medio de NLP utilizando spacy. Aca esta la documentación de spacy que es la base teorica sobre la que esta construido (https://spacy.io/usage/embeddings-transformers) y aca esta la documentación del API (https://github.com/xhapa/Word-Wizards) en especifico la parte de NLP (https://github.com/xhapa/Word-Wizards/blob/master/src/READMEnlp.md).
